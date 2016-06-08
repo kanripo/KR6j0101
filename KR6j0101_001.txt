@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:54.450755
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:16
 #+TITLE: 淨瑠璃淨土摽
 #+PROPERTY: CBETA_ID T19n0929
 #+PROPERTY: ID KR6j0101
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 929
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0101_T_000-0066b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0101_T_001-0066b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.929¶
-
- 淨瑠璃淨土摽¶
+No. 929¶
+淨瑠璃淨土摽¶
 ¶
 
 藥師瑠璃光如來。通身淺碧色。寶窟中百寶¶
@@ -114,4 +113,4 @@ No.929¶
 
 　　　　　　　　二校了¶
 
-　　長治二秊六月二十五日奉寫畢
+　　長治二季六月二十五日奉寫畢
