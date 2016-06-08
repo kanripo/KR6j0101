@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:54.450755
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:16
 #+TITLE: 淨瑠璃淨土摽
 #+PROPERTY: CBETA_ID T19n0929
 #+PROPERTY: ID KR6j0101
